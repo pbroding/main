@@ -3,10 +3,9 @@
 <h4>A determined and highly motivated professional equipped with a CompTIA Security+ Certificate, Google Cybersecurity Certificate, and an unwavering commitment to pursuing a challenging and rewarding career in the cybersecurity industry. Demonstrated a keen understanding of the constantly evolving threat landscape while gaining a solid foundation in the latest security principles, methodologies, and tools. Adept at identifying vulnerabilities, mitigating risks, and ensuring the protection of critical information systems by leveraging both theoretical knowledge and practical skills. Looking to leverage a CompTIA Security+ Certificate, Google Cybersecurity Certificate, passion, and skill set, to make a significant impact in a dynamic cybersecurity environment.</h4>
 <br>
 <h2>🗞 Certifications:</h2>
-
-<h3><a href="https://github.com/pbroding/main/files/12974595/CompTIA-Security%2B-ce-certificate-PaulRBroding.pdf">CompTIA Security+ CE Certificate - Paul R Broding</a></h3>
-
-<h3><a href="https://github.com/pbroding/main/files/12974584/Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf">Coursera Google Cybersecurity Professional Certificate - Paul R Broding</a></h3>
+<h3><a href="https://github.com/pbroding/main/files/12974595/CompTIA-Security%2B-ce-certificate-PaulRBroding.pdf">CompTIA Security+ CE Certificate</a></h3>
+<h3><a href="https://github.com/pbroding/main/files/12974584/Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf">Coursera Google Cybersecurity Professional Certificate</a></h3>
+<h3><a href="https://freecodecamp.org/certification/fcce49a0ca2-3f05-4228-964e-bd2508951a6a/responsive-web-design">FreeCodeCampe Responsive Web Design Certificate</a></h3>
 <br>
 <h2>👨‍💻 Python Labs:</h2>
 
