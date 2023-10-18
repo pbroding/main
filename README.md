@@ -1,6 +1,6 @@
 <h1>Hi, I'm Paul! <br/><a href="https://github.com/">Programmer</a>, <a href="https://www.linkedin.com/in/paul-broding-mba-9920b2115">Cybersecurity Professional</a>, <a href="https://www.brodingphoto.com">Photographer</a>
 
-<h3>[CompTIA Security+ CE Certificate - Paul R Broding](https://github.com/pbroding/main/files/12974595/CompTIA-Security%2B-ce-certificate-PaulRBroding.pdf)</h3>
+<h3><a href="https://github.com/pbroding/main/files/12974595/CompTIA-Security%2B-ce-certificate-PaulRBroding.pdf">CompTIA Security+ CE Certificate - Paul R Broding</a></h3>
 
 <h3>[Coursera Google Cybersecurity Professional Certificate - Paul R Broding](https://github.com/pbroding/main/files/12974584/Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf)</h3>
 
