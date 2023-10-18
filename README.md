@@ -2,7 +2,23 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Cybersecurity Labs</b>
+  - [Praciting DS & Algos in Python](https://github.com/)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/)
+  - [Active Directory Bulk User Creation](https://github.com/)
+  - [FIM (File Integrity Monitor)](https://github.com/)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/)
+  - [Keylogger with Email Capability](https://github.com/)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+
+- <b>Python Labs</b>
   - [Praciting DS & Algos in Python](https://github.com/)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/) <b><i>(Potentially NSFW)</b></i>
