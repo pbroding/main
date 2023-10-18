@@ -12,7 +12,6 @@
 - [Praciting DS & Algos in Python](https://github.com/)
 - [Praciting DS & Algos in Python](https://github.com/)
 - [Praciting DS & Algos in Python](https://github.com/)
-- [Praciting DS & Algos in Python](https://github.com/)
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
 
