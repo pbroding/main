@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul! <br/><a href="https://github.com/">Programmer</a>, <a href="https://www.linkedin.com/in/paul-broding-mba-9920b2115">Cybersecurity Professional</a>, <a href="https://www.youtube.com/">YouTuber</a></h1>
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/">Programmer</a>, <a href="https://www.linkedin.com/in/paul-broding-mba-9920b2115">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
