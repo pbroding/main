@@ -2,6 +2,8 @@
 
 <h3><a href="https://github.com/main/Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf")>Coursera-Google-Cybersecurity-Cert-Paul R Broding.pdf</a></h3>
 
+[Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf](https://github.com/pbroding/main/files/12974584/Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf)
+
 <h2>👨‍💻 Python Labs:</h2>
 
 - [Praciting DS & Algos in Python](https://github.com/)
