@@ -17,8 +17,8 @@
 
 - [Analyze a vulnerable system for a small business](https://github.com/pbroding/analyze-a-vulnerable-system-for-a-small-business/blob/main/README.md)
 - [Apply filters to SQL queries](https://github.com/pbroding/apply-filters-to-SQL-queries/blob/main/README.md)
-- [Conduct A Security Audit, Part 1](https://github.com/pbroding/conduct-a-security-audit-part-1/blob/main/README.md)
-- [Conduct A Security Audit, Part 2](https://github.com/pbroding/conduct-a-security-audit-part-2/blob/main/README.md)
+- [Conduct a Security Audit, Part 1](https://github.com/pbroding/conduct-a-security-audit-part-1/blob/main/README.md)
+- [Conduct a Security Audit, Part 2](https://github.com/pbroding/conduct-a-security-audit-part-2/blob/main/README.md)
 - [Finalize your incident handler's journal](https://github.com/pbroding/incident-handlers-journal/blob/main/README.md)
 - [NIST CSF Respond to a Security Incident](https://github.com/pbroding/NIST-CSF-respond-to-a-security-incident/blob/main/README.md)
 - [Update a file through a Python algorithm](https://github.com/pbroding/update-a-file-through-a-python-algorithm/blob/main/README.md)
