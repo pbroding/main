@@ -2,7 +2,7 @@
 
 <h3><a href="https://github.com/pbroding/main/files/12974595/CompTIA-Security%2B-ce-certificate-PaulRBroding.pdf">CompTIA Security+ CE Certificate - Paul R Broding</a></h3>
 
-<h3>[Coursera Google Cybersecurity Professional Certificate - Paul R Broding](https://github.com/pbroding/main/files/12974584/Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf)</h3>
+<h3><a href="https://github.com/pbroding/main/files/12974584/Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf">Coursera Google Cybersecurity Professional Certificate - Paul R Broding</a></h3>
 
 <h2>👨‍💻 Python Labs:</h2>
 
