@@ -8,10 +8,10 @@
 
 <h2>👨‍💻 Python Labs:</h2>
 
-- [Praciting DS & Algos in Python](https://github.com/)
-- [Praciting DS & Algos in Python](https://github.com/)
-- [Praciting DS & Algos in Python](https://github.com/)
-- [Praciting DS & Algos in Python](https://github.com/)
+- [Week One](https://github.com/)
+- [Week Two](https://github.com/)
+- [Week Three](https://github.com/)
+- [Week Four](https://github.com/)
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
 
