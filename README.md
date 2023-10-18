@@ -1,6 +1,6 @@
-<h1>Hi, I'm Paul! <br/><a href="https://github.com/">Programmer</a>, <a href="https://www.linkedin.com/in/paul-broding-mba-9920b2115">Cybersecurity Professional</a>
+<h1>Hi, I'm Paul! <br/><a href="https://github.com/">Programmer</a>, <a href="https://www.linkedin.com/in/paul-broding-mba-9920b2115">Cybersecurity Professional</a>, <a href="https://www.brodingphoto.com">Photographer</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Labs:</h2>
 
 - <b>Cybersecurity Labs</b>
   - [Praciting DS & Algos in Python](https://github.com/)
@@ -17,6 +17,8 @@
   - [Keylogger with Email Capability](https://github.com/)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/)
+
+<h2>👨‍💻 Python Labs:</h2>
 
 - <b>Python Labs</b>
   - [Praciting DS & Algos in Python](https://github.com/)
