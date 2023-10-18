@@ -22,7 +22,7 @@
 - [Conduct A Security Audit, Part 2](https://github.com/pbroding/conduct-a-security-audit-part-2/blob/main/README.md)
 - [Finalize your incident handler's journal](https://github.com/pbroding/incident-handlers-journal/blob/main/README.md)
 - [NIST CSF Respond to a Security Incident](https://github.com/pbroding/NIST-CSF-respond-to-a-security-incident/blob/main/README.md)
-- [Update a file through a Python algorthm](https://github.com/pbroding/update-a-file-through-a-python-algorthm/blob/main/README.md)
+- [Update a file through a Python algorithm](https://github.com/pbroding/update-a-file-through-a-python-algorthm/blob/main/README.md)
 - [Use Linux commands to manage file permissions](https://github.com/pbroding/use-linux-commands-to-manage-file-permissions/blob/main/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
