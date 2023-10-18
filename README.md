@@ -14,7 +14,7 @@
 
 <h2>👨‍💻 Cybersecurity Labs:</h2>
 
-- [Analyze a vulnerable system for a small business](https://github.com/pbroding/Analyze-a-vulnerable-system-for-a-small-business)
+- [Analyze a vulnerable system for a small business](https://github.com/pbroding/Analyze-a-vulnerable-system-for-a-small-business/README.md)
 - [Praciting DS & Algos in Python](https://github.com/)
 - [Praciting DS & Algos in Python](https://github.com/)
 - [Praciting DS & Algos in Python](https://github.com/)
