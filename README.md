@@ -28,10 +28,9 @@
 <h2>👨‍💻 HTML Projects:</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Technical Documentation](https://github.com/pbroding/technical-documentation)
+- [Customer Service Form](https://github.com/pbroding/customer-service-form)
+
 <br>
 <h2>📸 Photography:</h2>
 <h3><a href="https://www.brodingphoto.com">Photography Website</a></h3>
