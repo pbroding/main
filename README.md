@@ -5,7 +5,7 @@
 <h2>🗞 Certifications:</h2>
 <h3><a href="https://github.com/pbroding/main/files/12974595/CompTIA-Security%2B-ce-certificate-PaulRBroding.pdf">CompTIA Security+ CE Certificate</a></h3>
 <h3><a href="https://github.com/pbroding/main/files/12974584/Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf">Coursera Google Cybersecurity Professional Certificate</a></h3>
-<h3><a href="https://freecodecamp.org/certification/fcce49a0ca2-3f05-4228-964e-bd2508951a6a/responsive-web-design">FreeCodeCampe Responsive Web Design Certificate</a></h3>
+<h3><a href="https://freecodecamp.org/certification/fcce49a0ca2-3f05-4228-964e-bd2508951a6a/responsive-web-design">FreeCodeCamp Responsive Web Design Certificate</a></h3>
 <br>
 <h2>👨‍💻 Python Labs:</h2>
 
