@@ -30,6 +30,7 @@
 - [San Diego Landing Page](https://github.com/pbroding/landing-page/blob/main/README.md)
 - [Technical Documentation](https://github.com/pbroding/technical-documentation/blob/main/README.md)
 - [Customer Service Form](https://github.com/pbroding/customer-service-form/blob/main/README.md)
+- [Odin Recipes](https://github.com/pbroding/odin-recipes/blob/main/README.md)
 
 <br>
 <h2>📸 Photography:</h2>
