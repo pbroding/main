@@ -27,9 +27,9 @@
 <br>
 <h2>👨‍💻 HTML Projects:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Technical Documentation](https://github.com/pbroding/technical-documentation)
-- [Customer Service Form](https://github.com/pbroding/customer-service-form)
+- [San Diego Landing Page](https://github.com/pbroding/landing-page/blob/main/README.md)
+- [Technical Documentation](https://github.com/pbroding/technical-documentation/blob/main/README.md)
+- [Customer Service Form](https://github.com/pbroding/customer-service-form/blob/main/README.md)
 
 <br>
 <h2>📸 Photography:</h2>
