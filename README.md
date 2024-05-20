@@ -7,13 +7,7 @@
 <h3><a href="https://github.com/pbroding/main/files/12974584/Coursera-Google-Cybersecurity-Cert-PaulRBroding.pdf">Coursera Google Cybersecurity Professional Certificate</a></h3>
 <h3><a href="https://freecodecamp.org/certification/fcce49a0ca2-3f05-4228-964e-bd2508951a6a/responsive-web-design">FreeCodeCamp Responsive Web Design Certificate</a></h3>
 <br>
-<h2>👨‍💻 Python Labs:</h2>
 
-- [Week One](https://github.com/pbroding/week-one/blob/main/README.md)
-- [Week Two](https://github.com/pbroding/week-two/blob/main/README.md)
-- [Week Three](https://github.com/pbroding/week-three/blob/main/README.md)
-- [Week Four](https://github.com/pbroding/week-four/blob/main/README.md)
-<br>
 <h2>👨‍💻 Cybersecurity Labs:</h2>
 
 - [Analyze a vulnerable system for a small business](https://github.com/pbroding/analyze-a-vulnerable-system-for-a-small-business/blob/main/README.md)
@@ -25,14 +19,7 @@
 - [Update a file through a Python algorithm](https://github.com/pbroding/update-a-file-through-a-python-algorithm/blob/main/README.md)
 - [Use Linux commands to manage file permissions](https://github.com/pbroding/use-linux-commands-to-manage-file-permissions/blob/main/README.md)
 <br>
-<h2>👨‍💻 HTML Projects:</h2>
 
-- [San Diego Landing Page](https://github.com/pbroding/landing-page/blob/main/README.md)
-- [Technical Documentation](https://github.com/pbroding/technical-documentation/blob/main/README.md)
-- [Customer Service Form](https://github.com/pbroding/customer-service-form/blob/main/README.md)
-- [Odin Recipes](https://github.com/pbroding/odin-recipes/blob/main/README.md)
-
-<br>
 <h2>📸 Photography:</h2>
 
 - [Photography Website](https://www.brodingphoto.com)
