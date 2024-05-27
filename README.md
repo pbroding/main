@@ -18,6 +18,10 @@
 - [Update a file through a Python algorithm](https://github.com/pbroding/update-a-file-through-a-python-algorithm/blob/main/README.md)
 - [Use Linux commands to manage file permissions](https://github.com/pbroding/use-linux-commands-to-manage-file-permissions/blob/main/README.md)
 
+<h2>👨‍💻 Python:</h2>
+
+- [Basic calculator using twto variable](https://github.com/pbroding/basic-calculatorREADME.md)
+
 <h2>📸 Photography:</h2>
 
 - [Photography Website](https://www.brodingphoto.com)
