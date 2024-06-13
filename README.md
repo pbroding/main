@@ -20,7 +20,8 @@
 
 <h2>👨‍💻 Python:</h2>
 
-- [Basic calculator using twto variable](https://github.com/pbroding/basic-calculator/blob/main/README.md)
+- [Basic calculator using two variables](https://github.com/pbroding/basic-calculator/blob/main/README.md)
+- [Basic quadratic equation calculator](https://github.com/pbroding/basic-calculator/blob/main/README.md)
 
 <h2>📸 Photography:</h2>
 
